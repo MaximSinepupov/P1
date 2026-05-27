@@ -1,0 +1,7 @@
+.text::first-letter {
+    font-size: 30px;
+    color:rgb(245, 0, 0);
+}
+li::before {
+    content:"✔"
+}

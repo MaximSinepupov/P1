@@ -1,0 +1,25 @@
+h1{
+    font-size: 30pt; 
+    line-height : 20pt ;
+    text-align:center;
+    color: green; 
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2023-02/1676545986_catherineasquithgallery-com-p-fon-polinnogo-tsveta-231.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x repeat-y;
+    font-family: "Century Gothic";
+}
+p{
+    font-family: "Century Gothic";
+    font-size: 20pt; 
+    line-height : 20pt ;
+    text-align:justify;
+    text-indent: 15pt;
+}
+.fon{
+    background-color: yellow;
+}
+body{
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2023-01/1674285409_catherineasquithgallery-com-p-serii-fon-tekhno-foto-1.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
